@@ -10,7 +10,7 @@ Requirements
 * PyQt5
 * EasyOCR
 * numpy
-* PIL (Python Imaging Library)
+* pillow (Python Imaging Library)
 
 Installation
 ------------
@@ -18,7 +18,7 @@ Installation
 1. Clone the repository or download the script.
 2. Install the required packages using pip:
 ```
-pip install PyQt5 EasyOCR numpy numpy PIL
+pip install PyQt5 EasyOCR numpy numpy pillow
 ```
 
 Usage
